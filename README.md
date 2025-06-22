@@ -25,7 +25,7 @@ CovidMap enables users to:
 - **Millify** (Number Formatting)  
 - **React Icons** (UI Enhancements)  
 - **Tailwind CSS** (Styling)  
-- **Jest & Testing Library** (Unit Testing)  
+- **Vitest & Testing Library** (Unit Testing)  
 - **Vite** (Build Tool)  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo  
